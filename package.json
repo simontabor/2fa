@@ -1,0 +1,25 @@
+{
+  "name": "2fa",
+  "version": "0.0.1",
+  "description": "TOTP + HOTP library, with nice utilities for handing 2FA",
+  "main": "lib/2FA.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/simontabor/2fa.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "two-factor",
+    "2fa"
+  ],
+  "author": "Simon Tabor",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^0.9.0",
+    "qrcode": "^0.2.12",
+    "thirty-two": "0.0.2"
+  }
+}
