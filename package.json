@@ -1,6 +1,6 @@
 {
   "name": "2fa",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "TOTP + HOTP library, with nice utilities for handing 2FA",
   "main": "lib/2FA.js",
   "repository": {
@@ -18,8 +18,7 @@
   "author": "Simon Tabor",
   "license": "MIT",
   "dependencies": {
-    "async": "^0.9.0",
-    "qrcode": "^0.2.12",
+    "qr-image": "^3.1.0",
     "thirty-two": "0.0.2"
   }
 }
