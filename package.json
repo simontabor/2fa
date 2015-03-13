@@ -1,6 +1,6 @@
 {
   "name": "2fa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TOTP + HOTP library, with nice utilities for handing 2FA",
   "main": "lib/2FA.js",
   "repository": {
