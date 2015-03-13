@@ -2,7 +2,7 @@
 
 Module for generating and verifying 2FA codes (specifically TOTP and HOTP).
 
-Also contains utilities for handing 2FA logic, such as generating Google QR codes (without going via Google Charts) and generating backup codes.
+Also contains utilities for handing 2FA logic, such as generating Google Authenticator compatible QR codes (without going via Google Charts) and generating backup codes.
 
 ## Install
 ```
@@ -12,8 +12,7 @@ npm install --save 2fa
 ## Usage
 
 ```js
-var TFA = require('2fa');
-var tfa = new TFA();
+var tfa = require('2fa');
 
 // lets generate a new key for a user
 // tfa.generateKey(length (optional), cb)
