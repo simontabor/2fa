@@ -1,6 +1,7 @@
 # 2FA
 
 [![Dependencies](https://david-dm.org/simontabor/2fa.svg)](https://david-dm.org/simontabor/2fa)
+[![Join the chat at https://gitter.im/simontabor/2fa](https://img.shields.io/badge/gitter-join%20chat-blue.svg)](https://gitter.im/simontabor/2fa)
 
 [![NPM](https://nodei.co/npm/2fa.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/2fa)
 
