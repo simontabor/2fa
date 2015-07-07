@@ -1,5 +1,9 @@
 # 2FA
 
+[![Dependencies](https://david-dm.org/simontabor/2fa.svg)](https://david-dm.org/simontabor/2fa)
+
+[![NPM](https://nodei.co/npm/2fa.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/2fa)
+
 Module for generating and verifying 2FA codes (specifically TOTP and HOTP).
 
 Also contains utilities for handing 2FA logic, such as generating Google Authenticator compatible QR codes (without going via Google Charts) and generating backup codes.
